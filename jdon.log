@@ -1,0 +1,133 @@
+11:38:40  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+11:43:01  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+11:43:05  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+11:43:15 ERROR [Debug.java:143] com.jdon.domain.message.DomainCommandDispatchHandler.uselog4j2() - [Jdonframework]sample.domain.BankAccount method with @onCommand  happended error: java.lang.reflect.InvocationTargetException
+11:47:20  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+11:47:25  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+11:48:04  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+11:48:06  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+11:48:14 ERROR [Debug.java:143] com.jdon.domain.message.DomainEventDispatchHandler.uselog4j2() - [Jdonframework]sample.domain.DomainEventConsumer method with @onEvent error: java.lang.reflect.InvocationTargetException
+11:49:01  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+11:49:02  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+11:49:22 ERROR [Debug.java:143] com.jdon.domain.message.DomainEventDispatchHandler.uselog4j2() - [Jdonframework]sample.domain.DomainEventConsumer method with @onEvent error: java.lang.reflect.InvocationTargetException
+11:50:06  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+11:50:06  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+11:50:27  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+11:50:27  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+11:51:15 ERROR [Debug.java:143] com.jdon.domain.message.DomainEventDispatchHandler.uselog4j2() - [Jdonframework]sample.domain.DomainEventConsumer method with @onEvent error: java.lang.reflect.InvocationTargetException
+11:52:41  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+11:52:41  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+11:52:58 ERROR [Debug.java:143] com.jdon.domain.message.DomainEventDispatchHandler.uselog4j2() - [Jdonframework]sample.domain.DomainEventConsumer method with @onEvent error: java.lang.reflect.InvocationTargetException
+11:53:11 ERROR [Debug.java:143] com.jdon.domain.message.DomainEventDispatchHandler.uselog4j2() - [Jdonframework]sample.domain.DomainEventConsumer method with @onEvent error: java.lang.reflect.InvocationTargetException
+11:54:31  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+11:54:31  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+11:55:49  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+11:55:50  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+11:55:50 ERROR [Debug.java:143] com.jdon.domain.message.DomainCommandDispatchHandler.uselog4j2() - [Jdonframework]sample.domain.BankAccount method with @onCommand  happended error: java.lang.reflect.InvocationTargetException
+11:56:11  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+11:56:11  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+11:56:20 ERROR [Debug.java:143] com.jdon.domain.message.DomainCommandDispatchHandler.uselog4j2() - [Jdonframework]sample.domain.BankAccount method with @onCommand  happended error: java.lang.reflect.InvocationTargetException
+11:59:38  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+11:59:38  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+12:02:02  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+12:02:02  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+12:04:41  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+12:04:41  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+12:08:06  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+12:08:06  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+12:08:31  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+12:08:31  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+12:09:29  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+12:09:29  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+12:10:52  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+12:10:52  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+12:13:18  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+12:13:19  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+12:15:06  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+12:15:06  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+12:16:45  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+12:16:45  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+12:18:41  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+12:18:41  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:07:00  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:07:01  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:08:31  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:08:32  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:09:55  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:09:55  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:10:17  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:10:17  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:10:58  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:10:58  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:16:27  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:16:27  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:20:23  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:20:23  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:22:54  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:22:54  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:31:06  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:31:06  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:32:25  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:32:25  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:33:27  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:33:28  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:34:24  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:34:24  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+13:39:38  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+13:39:38  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+14:02:47  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+14:02:47  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+14:04:05  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+14:04:06  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+14:49:21  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+14:49:22  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+14:50:09  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+14:50:09  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+14:50:40  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+14:50:41  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+14:54:06  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+14:54:06  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+15:16:02  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+15:16:02  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+15:27:05  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+15:27:05  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+15:30:43  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+15:30:43  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+15:32:44  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+15:32:44  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+15:34:11  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+15:34:11  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+15:40:08  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+15:40:08  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+15:42:58  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+15:42:58  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+15:44:41  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+15:44:42  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+15:48:51  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+15:48:51  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+16:06:23  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+16:06:23  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+16:11:07  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+16:11:08  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+16:26:50  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+16:26:50  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+16:27:29  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+16:27:29  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+16:28:46  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+16:28:46  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+16:39:02  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+16:39:02  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+17:19:46  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+17:19:46  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+17:22:57  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+17:22:57  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+17:25:06  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+17:25:06  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+17:25:45  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+17:25:45  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+17:26:19  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+17:26:19  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+17:29:11  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+17:29:11  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
+17:29:46  INFO [ContainerDirector.java:50] JdonFramework.prepareAppRoot() -  is ready.
+17:29:46  INFO [ContainerDirector.java:77] JdonFramework.startup() - Jdon Framework started successfully! 
